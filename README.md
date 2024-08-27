@@ -1,1 +1,1 @@
-# sql-python_ecommerce
+# sql_python_ecommerce
